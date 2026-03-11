@@ -28,10 +28,10 @@ O projeto segue a topologia clássica de fontes lineares, dividida em 5 estágio
 ### 🔄 Fluxo Detalhado
 
 1. **🌐 Estágio 1 - Entrada**  
-   O conector **J3** recebe a tensão alternada reduzida por um transformador (recomendado: 15V a 24V AC).
+   O conector **J3** recebe a tensão alternada 
 
 2. **⚡ Estágio 2 - Retificação**  
-   A ponte de diodos **BR3** converte a tensão AC em DC pulsante (retificação em onda completa).
+   A ponte de diodos **BR3** converte a tensão AC em DC pulsante tudo em um so caminho
 
 3. **💧 Estágio 3 - Filtro Capacitivo**  
    O capacitor **C6 (1000µF)** atua como reservatório de energia, reduzindo a ondulação (ripple).
