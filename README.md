@@ -46,7 +46,8 @@ O projeto segue a topologia clássica de fontes lineares, dividida em 5 estágio
 6. **🔌 Estágio 6 - Saída**  
    O conector **J4** disponibiliza os 12V estabilizados para a carga.
 
-<img width="1101" height="362" alt="Captura de tela 2026-03-10 221609" src="https://github.com/user-attachments/assets/eeffd354-b954-43a8-b724-d6c2edc16974" />
+<img width="1269" height="351" alt="{987CBFFB-6605-4294-90A8-7F3BEDD00BDE}" src="https://github.com/user-attachments/assets/d04ea31a-5b44-41e6-be0d-906ee6f2b918" />
+
 
 ---
 
