@@ -63,8 +63,10 @@ A placa foi desenvolvida no Proteus 8 Professional com as seguintes característ
 
 ### 🔍 Visualização
 
-<img width="435" height="656" alt="Captura de tela 2026-03-10 221659" src="https://github.com/user-attachments/assets/1581b818-27ae-42ec-887c-a5da65dcc1ed" />
-<img width="472" height="816" alt="Captura de tela 2026-03-10 221630" src="https://github.com/user-attachments/assets/711b0c88-098a-4452-9efd-25ab84294ce8" />
-<img width="635" height="826" alt="Captura de tela 2026-03-10 221719" src="https://github.com/user-attachments/assets/94d5be0d-76cd-4f7f-9577-c354cdbc5e06" />
+<img width="332" height="610" alt="{EDD42FCF-E53A-476E-BC6B-D146FE6D55EE}" src="https://github.com/user-attachments/assets/0de9a146-3961-4890-b5b2-354f514387f2" />
+
+<img width="389" height="696" alt="{6E2EBF4D-AD68-4B21-8859-04A1FE691F32}" src="https://github.com/user-attachments/assets/60a527ac-eaa8-46a4-9a09-e3b5fbfdc77c" />
+
+<img width="445" height="743" alt="{888BB21A-CBE3-461E-BCEA-5A06B19CD570}" src="https://github.com/user-attachments/assets/781f9d48-fd46-4959-8913-097ac082e2f1" />
 
 ---
